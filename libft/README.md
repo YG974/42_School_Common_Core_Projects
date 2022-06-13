@@ -1,11 +1,11 @@
 # libft
-Ce projet a pour but reproduire quelques fonctions de la bibliothèque standard C.
+The main purpose of this project is to reproduce few functions of the Standard C library.
 
-## Comment lancer le programme :
-Exécuter:   `make all` <br>
+## Usage :
+Execute:   `make all` <br>
 
-Vous pouvez ensuite linker `libft.a` dans n'importe quel projet en C.
+You can link the library `libft.a` in any C project.
 
-## Dépendances :
+## Dependancies :
 * __clang__
 * __make__
