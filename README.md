@@ -49,14 +49,14 @@ Code a function which read on file descriptor, line by line
 [![ygeslin's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1627531)](https://github.com/JaeSeoKim/badge42)
 
 - [ft_printf](ft_printf)
-[![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
-<br>
 Reproduce `printf` function from C standard library
+<br>
+[![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
 
 - [Libft](libft)
-[![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)
-<br>
 Reproduce functions from `C standard library`
+<br>
+[![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)
 
 
 ## **Exams**
