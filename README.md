@@ -4,14 +4,25 @@
 [![ygeslin's 42 stats](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/stats?cursusId=21&coalitionId=12)](https://github.com/JaeSeoKim/badge42)
 
 ## **Projects**
-<!-- [ft_transcendence](ft_transcendence) -->
+- [ft_transcendence](ft_transcendence)
+: TODO
 <!-- [![ygeslin's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507800)](https://github.com/JaeSeoKim/badge42) -->
-ft_transcendence
-webserv
-ft_containers
-CPP Piscine
-Philosophers
-ft_services
+
+- [webserv](webser)
+: TODOOOO
+
+- [ft_containers](ft_containers)
+: TODOOOO
+
+- [CPP Piscine](cpp)
+: Introduction to Object-Oriented Programming
+
+- [Philosophers](Philosophers)
+: Learn the basics of threading a process, mutex, semaphores
+
+- [ft_services](ft_services)
+:TODOOOOOOOO
+
 - [minishell](Minishell)
 : Recode a simple shell that behave like bash <br>
 <!-- [![ygeslin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024111)](https://github.com/JaeSeoKim/badge42) -->
@@ -28,8 +39,8 @@ ft_services
 : Introduction to system administration(Docker, WordPress, PhpMyAdmin, mysql) <br>
 <!-- [![ygeslin's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864374)](https://github.com/JaeSeoKim/badge42) -->
 
-- netwhat
-: Network exercises(No repository) <br>
+<!-- - netwhat
+: Network exercises(No repository) <br> -->
 <!-- [![ygeslin's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605179)](https://github.com/JaeSeoKim/badge42) -->
 
 - [get_next_line](Get_next_line)
