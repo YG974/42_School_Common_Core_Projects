@@ -5,41 +5,44 @@
 
 ## **Projects**
 <!-- [ft_transcendence](ft_transcendence) -->
-[![ygeslin's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507800)](https://github.com/JaeSeoKim/badge42)
+<!-- [![ygeslin's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507800)](https://github.com/JaeSeoKim/badge42) -->
 ft_transcendence
 webserv
 ft_containers
 CPP Piscine
 Philosophers
 ft_services
-minishell
+- [minishell](Minishell)
+: Recode a simple shell that behave like bash <br>
+<!-- [![ygeslin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024111)](https://github.com/JaeSeoKim/badge42) -->
+
 - [libasm](libasm)
 : The aim of this project is to get familiar with assembly language <br>
-[![ygeslin's 42 libasm Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024108)](https://github.com/JaeSeoKim/badge42)
+<!-- [![ygeslin's 42 libasm Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024108)](https://github.com/JaeSeoKim/badge42) -->
 
 - [Cub3D](cub3d)
 : Small 3D game using Raycasting like Wolfenstein 3D <br>
-[![ygeslin's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864381)](https://github.com/JaeSeoKim/badge42)
+<!-- [![ygeslin's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864381)](https://github.com/JaeSeoKim/badge42) -->
 
 - [ft_server](ft_server)
 : Introduction to system administration(Docker, WordPress, PhpMyAdmin, mysql) <br>
-[![ygeslin's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864374)](https://github.com/JaeSeoKim/badge42)
+<!-- [![ygeslin's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864374)](https://github.com/JaeSeoKim/badge42) -->
 
 - netwhat
-: Network exercises <br>
-[![ygeslin's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605179)](https://github.com/JaeSeoKim/badge42)
+: Network exercises(No repository) <br>
+<!-- [![ygeslin's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605179)](https://github.com/JaeSeoKim/badge42) -->
 
 - [get_next_line](Get_next_line)
 : Code a function which read on file descriptor, line by line <br>
-[![ygeslin's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1627531)](https://github.com/JaeSeoKim/badge42)
+<!-- [![ygeslin's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1627531)](https://github.com/JaeSeoKim/badge42) -->
 
 - [ft_printf](ft_printf)
-: Reproduce `printf` function from C standard library <br>
-[![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
+: Reproduce printf function from C standard library <br>
+<!-- [![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42) -->
 
 - [Libft](libft)
-: Reproduce functions from `C standard library` <br>
-[![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)
+: Reproduce functions from C standard library <br>
+<!-- [![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42) -->
 
 
 ## **Exams**
