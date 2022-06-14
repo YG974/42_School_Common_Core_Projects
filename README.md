@@ -56,27 +56,18 @@ Reproduce `printf` function from C standard library
 [![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
 
 - [Libft](libft)
-<br>
+[![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)
 Reproduce functions from `C standard library`
 
-[![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)
 
 ## **Exams**
 - Exam Rank 06
-<br>
-
 [![ygeslin's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507799)](https://github.com/JaeSeoKim/badge42)
 - Exam Rank 05
-<br>
-
 [![ygeslin's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2329828)](https://github.com/JaeSeoKim/badge42)
 - Exam Rank 04
-<br>
-
 [![ygeslin's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2201147)](https://github.com/JaeSeoKim/badge42)
 - Exam Rank 03
-
 [![ygeslin's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2074295)](https://github.com/JaeSeoKim/badge42)
 - Exam Rank 02
-
 [![ygeslin's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864377)](https://github.com/JaeSeoKim/badge42)
