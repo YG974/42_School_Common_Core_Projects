@@ -21,14 +21,15 @@
 : Learn the basics of threading a process, mutex, semaphores
 
 - [ft_services](ft_services)
+: Deploying and monitoring a website using a cluster of services with Kubernetes <br>
 :TODOOOOOOOO
 
 - [minishell](Minishell)
-: Recode a simple shell that behave like bash <br>
+: Recode a shell that behave like bash <br>
 <!-- [![ygeslin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024111)](https://github.com/JaeSeoKim/badge42) -->
 
 - [libasm](libasm)
-: The aim of this project is to get familiar with assembly language <br>
+: Introduction to assembly language <br>
 <!-- [![ygeslin's 42 libasm Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024108)](https://github.com/JaeSeoKim/badge42) -->
 
 - [Cub3D](cub3d)
