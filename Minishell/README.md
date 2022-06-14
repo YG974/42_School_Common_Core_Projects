@@ -1,13 +1,14 @@
 # Minishell
 
-## Introduction
+## Purpose
 
 Minishell is a group project at 42 School. <br>
 The goal of this project is to create a simple shell that behave like bash. <br>
 I've done this project with Paco Coureau (pcoureau@student.42.fr)
 
 ## Grade
-100 / 100
+**100 / 100**
+<br>
 <br>
 ![Alt text](../images/rank100.png)
 

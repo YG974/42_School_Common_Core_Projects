@@ -11,9 +11,10 @@ It uses __docker__ technology to install a complete web server. This server will
 ## Grade
 100 / 100
 <br>
+<br>
 ![Alt text](../images/rank100.png)
 
-  ## How to run the programme
+  ## Usage
 Make sure Docker Desktop is running and you are in the ft_server directory.
 * To build the docker image :
 Run `docker build -t ft_server .`

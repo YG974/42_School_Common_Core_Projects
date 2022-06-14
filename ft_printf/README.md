@@ -6,7 +6,8 @@ The main purpose of this project is to reproduce the printf function from the St
 - Supported options: `-`, `0`, `.`, `*`, `width`
 
 ## Grade
-100 / 100
+**100 / 100**
+<br>
 <br>
 ![Alt text](../images/rank100.png)
 

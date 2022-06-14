@@ -2,7 +2,8 @@
 The main purpose of this project is to reproduce few functions of the Standard C library.
 
 ## Grade
-115 / 100
+**115 / 100**
+<br>
 <br>
 ![Alt text](../images/rank115.png)
 ## Usage :

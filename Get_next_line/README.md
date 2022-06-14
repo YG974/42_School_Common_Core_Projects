@@ -2,7 +2,8 @@
 The purpose of this project is to code a function which reads content line by line on a file descriptor, with an editable buffer size.
 
 ## Grade
-115 / 100
+**115 / 100**
+<br>
 <br>
 ![Alt text](../images/rank115.png)
 

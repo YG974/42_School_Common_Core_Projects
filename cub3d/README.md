@@ -7,7 +7,8 @@ Extract from the Project Subject :
 
 This project is written in C and uses the minilibX, a graphic library derivated from OpenGL. This game is designed to run on MacOS.
 ## Grade
-101 / 100
+ **101 / 100**
+<br>
 <br>
 ![Rank](../images/rank101.png)
 
@@ -28,6 +29,7 @@ This project is written in C and uses the minilibX, a graphic library derivated 
 ``↓`` - rotate down <br>
 ``←`` - rotate left <br>
 ``→`` - rotate right <br>
+``ESC`` - Exit <br>
 
 ## Screenshots
 <img src='bitmap.bmp' alt='bmp' width='625'>
