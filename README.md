@@ -54,7 +54,7 @@ Reproduce `printf` function from C standard library
 [![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
 
 - [Libft](libft)
-Reproduce functions from `C standard library`
+Reproduce functions from `C standard library` <br>
 [![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)
 
 
