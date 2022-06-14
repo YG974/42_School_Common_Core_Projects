@@ -1,10 +1,10 @@
 # get_next_line
-The purpose of this project is to code a function which reads content line by line, with an editable buffer size.
+The purpose of this project is to code a function which reads content line by line on a file descriptor, with an editable buffer size.
 
 ## Grade
 115 / 100
 <br>
-![Alt text](../images/rank.png)
+![Alt text](../images/rank115.png)
 
 ## Usage:
 - You can edit the file to read in `main.c`
@@ -14,6 +14,6 @@ The purpose of this project is to code a function which reads content line by li
 
  `clang -Wall -Wextra -Werror -D BUFFER_SIZE=256 get_next_line.c get_next_line_utils.c main.c; ./a.out`
 
-## Dépendances :
+## Dependencies :
 * __clang__
 * __make__
