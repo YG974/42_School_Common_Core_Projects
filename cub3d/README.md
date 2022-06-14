@@ -34,3 +34,7 @@ This project is written in C and uses the minilibX, a graphic library derivated 
 ## Screenshots
 <img src='bitmap.bmp' alt='bmp' width='625'>
 <img src='cub3dVideo.gif' alt='gif' width='625'>
+
+## Dependencies :
+* __clang__
+* __make__
