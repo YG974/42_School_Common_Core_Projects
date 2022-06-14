@@ -3,7 +3,7 @@
 ## Purpose
 Extract from the Project Subject :
 
->     " This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. "
+> " This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way. "
 
 This project is written in C and uses the minilibX, a graphic library derivated from OpenGL. This game is designed to run on MacOS.
 ## Grade
