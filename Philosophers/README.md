@@ -31,3 +31,6 @@ You can run a program with the following arguments:
  * arg_5 = Number of meals (optional)
 
 Now you juste have to wait and see if one of them dies from hunger.
+## Dependencies :
+* __clang__
+* __make__
