@@ -1,5 +1,4 @@
 # Minishell
-
 ## Purpose
 
 Minishell is a group project at 42 School. <br>
@@ -53,6 +52,9 @@ This project is coded in C with our proper norm at 42.
 Run the Makefile with the `make all` command to compile all the files
 
 Then run the executable `./minishell`
+## Dependencies :
+* __clang__
+* __make__
 
 
 ## Resources

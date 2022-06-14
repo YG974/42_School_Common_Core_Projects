@@ -1,4 +1,6 @@
 # libft
+
+## Purpose
 The main purpose of this project is to reproduce few functions of the Standard C library.
 
 ## Grade

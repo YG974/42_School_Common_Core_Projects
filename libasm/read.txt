@@ -1,0 +1,2 @@
+read test : if you can read that, my function work
+if not, you don't really know
