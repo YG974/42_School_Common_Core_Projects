@@ -30,3 +30,6 @@ Has we used kqueue to implement our server which is less portable than select, p
 * __clang++__
 * __MacOS__
 * __make__
+
+### Credit
+@[pgueugno](pgueugno@student.42.fr) @[ygeslin](ygeslin@student.42.fr)
