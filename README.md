@@ -7,12 +7,12 @@
 
 |Subject / Link|Summary|Grade   |
 |-------|-------|--------|
-| [ft_transcendence](ft_transcendence) |: TODO | 100 / 100
-| [webserv](webser) | : TODOOOO | [![ygeslin's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507799)](https://github.com/JaeSeoKim/badge42)|
-|[ft_containers](ft_containers) | : TODOOOO | 100 / 100 |
-| [CPP Piscine](cpp) | Introduction to Object-Oriented Programming | 100 |
-| [Philosophers](Philosophers) | Learn the basics of threading a process, mutex, semaphores | 100 |
-| [ft_services](ft_services) | Deploying and monitoring a website using a cluster of services with Kubernetes | :TODOOOOOOOO
+| [ft_transcendence](ft_transcendence) | Code an SPA website with pong game, chat interface and a user and friend system  | [![ygeslin's 42 webserv Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2314033)](https://github.com/JaeSeoKim/badge42) |
+| [webserv](webser) | Recode from scratch a small nginx-like http server in C++ | [![ygeslin's 42 webserv Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2314033)](https://github.com/JaeSeoKim/badge42) |
+|[ft_containers](ft_containers) | Recode from scratch various container types of the C++ STL Library (in C++98) | [![ygeslin's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2329827)](https://github.com/JaeSeoKim/badge42) |
+| [CPP Piscine](cpp) | Introduction to Object-Oriented Programming | [![ygeslin's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024109)](https://github.com/JaeSeoKim/badge42) |
+| [Philosophers](Philosophers) | Learn the basics of threading a process, mutex, semaphores | [![ygeslin's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2160926)](https://github.com/JaeSeoKim/badge42) |
+| [ft_services](ft_services) | Deploying and monitoring a website using a cluster of services with Kubernetes | [![ygeslin's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024109)](https://github.com/JaeSeoKim/badge42) |
 | [minishell](Minishell) | Recode a shell that behave like bash | [![ygeslin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024111)](https://github.com/JaeSeoKim/badge42) |
 | [libasm](libasm) | Introduction to assembly language | [![ygeslin's 42 libasm Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024108)](https://github.com/JaeSeoKim/badge42) |
 | [Cub3D](cub3d) | Small 3D game using Raycasting like Wolfenstein 3D | [![ygeslin's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864381)](https://github.com/JaeSeoKim/badge42)|
