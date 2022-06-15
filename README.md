@@ -14,7 +14,7 @@
 <p align="center">
 <span>
 <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yann geslin" height="12" width="16" />
-Connect with me on
+<b>Connect with me on</b>
 <a href="https://www.linkedin.com/in/yann-geslin/">
 <b>Linkedin</b>
 </a>
@@ -50,11 +50,11 @@ Connect with me on
 | [Libft](libft) | Recode from scratch functions of the C standard library | [![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)|
 
 
-## **Exams**
+<!-- ## **Exams**
 |Rank		|Grade   |
 |-------|--------|
 | Exam Rank 06 | [![ygeslin's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2507799)](https://github.com/JaeSeoKim/badge42) |
 | Exam Rank 05 | [![ygeslin's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2329828)](https://github.com/JaeSeoKim/badge42) |
 | Exam Rank 04 | [![ygeslin's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2201147)](https://github.com/JaeSeoKim/badge42) |
 | Exam Rank 03 | [![ygeslin's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2074295)](https://github.com/JaeSeoKim/badge42) |
-| Exam Rank 02 | [![ygeslin's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864377)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 02 | [![ygeslin's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864377)](https://github.com/JaeSeoKim/badge42) | -->
