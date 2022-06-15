@@ -8,7 +8,7 @@
 |Subject / Link|Summary|Grade   |
 |-------|-------|--------|
 | [ft_transcendence](ft_transcendence) | Code an SPA website with pong game, chat interface and a user/friend system  | [![ygeslin's 42 webserv Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2314033)](https://github.com/JaeSeoKim/badge42) |
-| [webserv](webser) | Recode from scratch a small nginx-like http server in C++ | [![ygeslin's 42 webserv Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2314033)](https://github.com/JaeSeoKim/badge42) |
+| [webserv](webserv) | Recode from scratch a small nginx-like http server in C++ | [![ygeslin's 42 webserv Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2314033)](https://github.com/JaeSeoKim/badge42) |
 |[ft_containers](ft_containers) | Recode from scratch various container types of the C++ STL Library (in C++98) | [![ygeslin's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2329827)](https://github.com/JaeSeoKim/badge42) |
 | [CPP Piscine](cpp) | Introduction to Object-Oriented Programming | [![ygeslin's 42 ft_services Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2024109)](https://github.com/JaeSeoKim/badge42) |
 | [Philosophers](Philosophers) | Learn the basics of threading a process, mutex, semaphores | [![ygeslin's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/2160926)](https://github.com/JaeSeoKim/badge42) |
