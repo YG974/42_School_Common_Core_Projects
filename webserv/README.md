@@ -22,7 +22,7 @@
 ![Alt text](../images/rank110.png)
 
 ## Usage
-Run the Makefile with the `make all` command to compile all the files
+Run the Makefile with the `make all` command to compile all the files <br>
 Then run the executable `./webserv`
 
 ## Dependencies :
@@ -30,8 +30,3 @@ Has we used kqueue to implement our server which is less portable than select, p
 * __clang++__
 * __MacOS__
 * __make__
-
-
-## Resources
-
-  [bash reference manual](https://www.gnu.org/software/bash/manual/bash.pdf)
