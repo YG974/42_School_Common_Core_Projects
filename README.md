@@ -18,8 +18,8 @@
 | [Cub3D](cub3d) | Small 3D game using Raycasting like Wolfenstein 3D | [![ygeslin's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864381)](https://github.com/JaeSeoKim/badge42)|
 | [ft_server](ft_server) | Introduction to system administration (Docker, WordPress, PhpMyAdmin, mysql) | [![ygeslin's 42 ft_server Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1864374)](https://github.com/JaeSeoKim/badge42) |
 | [get_next_line](Get_next_line) | Code a function which read on file descriptor, line by line | [![ygeslin's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1627531)](https://github.com/JaeSeoKim/badge42) |
-| [ft_printf](ft_printf) | Reproduce printf function from C standard library | [![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
-| [Libft](libft) | Reproduce functions from C standard library | [![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)|
+| [ft_printf](ft_printf) | Recode from scratch printf function of C standard library | [![ygeslin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1605181)](https://github.com/JaeSeoKim/badge42)
+| [Libft](libft) | Recode from scratch functions of the C standard library | [![ygeslin's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4ea7rmx001109l4ki6wpjy8/project/1585123)](https://github.com/JaeSeoKim/badge42)|
 
 
 ## **Exams**
